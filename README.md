@@ -15,3 +15,6 @@ Estudio Desarrollo de Videojuegos y escogi esta carrera porque siempre me ha int
 
 ## Foto
 ![Mi foto](assets/gig.png)
+
+## Entregables
+- [Practica1](mds/apuntes.md)
