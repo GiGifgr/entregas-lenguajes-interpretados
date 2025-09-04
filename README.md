@@ -18,3 +18,4 @@ Estudio Desarrollo de Videojuegos y escogi esta carrera porque siempre me ha int
 
 ## Entregables
 - [Practica1](mds/apuntes.md)
+- [Practica2](mds/ramas-fusiones.md)
