@@ -21,7 +21,7 @@ Estamos aprendiendo a usar Photoshop la verdad esta muy interesante, por ahora e
 
 ## Ingles Tecnico
 ### Oropeza
-Nos esta ensenando mas que nada sobre como vendernos, speech en ingles, marketing, frases para captar la atencion y todo eso.
+Nos esta enseñando mas que nada sobre como vendernos, speech en ingles, marketing, frases para captar la atencion y todo eso.
 ![Mi foto](../assets/marketing.jpg)
 
 ## Sistemas Operativos
