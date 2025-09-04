@@ -1,4 +1,9 @@
 # Asignatura 3DEVs
+## Programacion en lenguajes interpretados
+### Jonathan Miranda
+Nos esta ensenando a programar en visual studio code, y a usar git y github de la mano. 
+![Mi foto](../assets/visual.png)
+
 ## Diseño de videojuegos
 ### Ana Olivar
 La materia practicamente es de aprender a diseñar desde cero un juego, nos esta enseñando todo lo que se debe incluir en una especie de GDD para que este realmente completo con todo detalle, igual nos enseño lo basico de unity y unreal
