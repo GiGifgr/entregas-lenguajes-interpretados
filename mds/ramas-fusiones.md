@@ -13,3 +13,8 @@ La materia practicamente es de aprender a diseñar desde cero un juego, nos esta
 ### Roberto Melo
 Estamos aprendiendo a usar Photoshop la verdad esta muy interesante, por ahora estamos llevando puro photoshop y me esta gustando, nos enseño ya a fusionar distintas imagenes y todo
 ![Mi foto](../assets/photoshop.png)
+
+## Ingles Tecnico
+### Oropeza
+Nos esta ensenando mas que nada sobre como vendernos, speech en ingles, marketing, frases para captar la atencion y todo eso.
+![Mi foto](../assets/marketing.jpg)
