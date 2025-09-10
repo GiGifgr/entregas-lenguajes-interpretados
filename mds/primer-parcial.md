@@ -45,7 +45,6 @@ git push -u origin main
 
 #### 11. ¿Cuál es el flujo básico de trabajo en Git y GitHub?, explicalo indicando la secuencia de comandos.
 ```bash
-git init
 git add .
 git commit -m "un commit"
 git push
