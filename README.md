@@ -22,3 +22,4 @@ Estudio Desarrollo de Videojuegos y escogi esta carrera porque siempre me ha int
 - [Practica3](mds/etiquetas.md)
 - [Practica4](mds/primer-parcial.md)
 - [Practica6](https://gigifgr.github.io/entregas-lenguajes-interpretados/practica-6.html)
+- [Practica7](https://gigifgr.github.io/entregas-lenguajes-interpretados/practica-7.html)
