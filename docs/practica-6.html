@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>PONG – Práctica 6</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body { font-family: Arial, Helvetica, sans-serif; line-height: 1.6; max-width: 900px; margin: auto; padding: 20px; }
+    h1, h2 { color: #333; }
+    ul, ol { margin-left: 20px; }
+    code { background: #f4f4f4; padding: 2px 5px; border-radius: 4px; }
+    pre { background: #f4f4f4; padding: 10px; border-radius: 6px; overflow-x: auto; }
+  </style>
+</head>
+<body>
+  <h1>PONG</h1>
+
+  <h2>Historia del Juego</h2>
+  <p>
+    Pong fue uno de los primeros videojuegos de arcade de la historia. Fue desarrollado por Atari y lanzado en 1972,
+    diseñado por Allan Alcorn. Simula el tenis de mesa: dos jugadores controlan paletas verticales para devolver una pelota.
+    Su éxito impulsó la industria moderna de los videojuegos.
+  </p>
+
+  <h2>Reglas y Mecánicas</h2>
+  <ul>
+    <li>Dos jugadores (o 1 vs CPU) controlan paletas verticales.</li>
+    <li>La pelota rebota en paredes superior/inferior y en las paletas.</li>
+    <li>Si la pelota pasa una paleta, el rival anota 1 punto.</li>
+    <li>Gana quien alcance el puntaje objetivo (por ejemplo, 10).</li>
+    <li>La pelota puede aumentar su velocidad con el tiempo.</li>
+  </ul>
+
+  <h2>Algoritmo del Juego</h2>
+  <ol>
+    <li>Inicializar posiciones de paletas y pelota.</li>
+    <li>Iniciar el bucle principal:
+      <ul>
+        <li>Leer entradas de los jugadores (teclas arriba/abajo).</li>
+        <li>Actualizar posiciones de paletas y pelota.</li>
+        <li>Detectar colisiones:
+          <ul>
+            <li>Si choca con pared superior/inferior → invertir dirección vertical.</li>
+            <li>Si choca con paleta → invertir dirección horizontal.</li>
+          </ul>
+        </li>
+        <li>Si la pelota cruza un borde lateral → asignar punto al rival y reiniciar pelota.</li>
+      </ul>
+    </li>
+    <li>Comprobar si alguien alcanzó el puntaje objetivo.</li>
+    <li>Si no, continuar el bucle hasta terminar la partida.</li>
+  </ol>
+
+  <h2>Diagrama de Flujo</h2>
+<img src="../../assets/diagrama.png" alt="Diagrama de Flujo de PONG" width="600">
